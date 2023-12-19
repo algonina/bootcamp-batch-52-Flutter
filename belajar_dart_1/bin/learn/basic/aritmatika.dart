@@ -1,11 +1,7 @@
 void main() {
-  var a = 10;
-  var b = 3;
+  print(testFunc());
+}
 
-  print(a == b);
-  print(a != b);
-  print(a > b);
-  print(a < b);
-  print(a >= b);
-  print(a <= b);
+testFunc([String a = "Anjing"]) {
+  return a;
 }
