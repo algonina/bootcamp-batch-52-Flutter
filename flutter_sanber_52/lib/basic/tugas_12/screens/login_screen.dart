@@ -10,7 +10,7 @@ class LoginScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: HexColor('#fff'),
-        title: Text("Tugas - 12"),
+        title: Text("Tugas - 11"),
         systemOverlayStyle:
             SystemUiOverlayStyle(systemNavigationBarColor: HexColor('#fff')),
       ),

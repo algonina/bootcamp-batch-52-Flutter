@@ -6,9 +6,10 @@ import 'package:flutter_sanber_52/basic/day_11_named_route/main.dart';
 import 'package:flutter_sanber_52/basic/day_11_route_generator/main.dart';
 import 'package:flutter_sanber_52/basic/tugas_10/main.dart';
 import 'package:flutter_sanber_52/basic/tugas_11/main.dart';
+import 'package:flutter_sanber_52/basic/tugas_12/main.dart';
 
 void main() {
-  runApp(RunTugas11());
+  runApp(RunTugas12());
 }
 
 class MyApp extends StatelessWidget {
